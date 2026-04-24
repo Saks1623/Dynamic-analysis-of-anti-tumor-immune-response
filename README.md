@@ -34,7 +34,7 @@ Solver accuracy:
 
 ---
 
-## 📊 Simulated Cases
+## Simulated Cases
 
 The project includes five different simulation scenarios:
 
